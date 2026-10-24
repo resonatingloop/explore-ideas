@@ -1,5 +1,5 @@
 # hmmarium
-## *etymology: hmm + vivarium*
+#### *etymology: hmm + vivarium*
 
 ---
 **welcome to the hmmarium**, a little habitat for thinking together.
