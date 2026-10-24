@@ -1,0 +1,4 @@
+interface:
+  display_name: "Interview Me"
+  short_description: "Bounded one-question-at-a-time elicitation"
+  default_prompt: "Use $interview-me to interview me one adaptive question at a time in a bounded pass. State the question ceiling, show progress, and synthesize at the boundary or sooner when useful; leave unresolved questions open."

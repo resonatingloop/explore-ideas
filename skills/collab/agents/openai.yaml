@@ -1,0 +1,4 @@
+interface:
+  display_name: "Collab"
+  short_description: "Generative collaboration for half-formed ideas"
+  default_prompt: "Use $collab to think with me generatively about this unfinished idea without planning or implementing it."
