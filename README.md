@@ -1,4 +1,10 @@
-# explore ideas
+# hmmarium
+## *etymology: hmm + vivarium*
+
+---
+**welcome to the hmmarium**, a little habitat for thinking together.
+
+---
 
 coding-agent interaction skills for collaboration and elicitation.
 
